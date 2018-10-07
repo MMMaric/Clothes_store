@@ -1,2 +1,2 @@
 # clothes-store
-Interactive and responsive website made for store clothes
+Interactive and responsive website made for store clothes.
