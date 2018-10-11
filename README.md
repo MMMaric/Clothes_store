@@ -1,4 +1,4 @@
-# clothes-store
+# Clothes store
 
 --> About : Interactive and responsive website made for store clothes.
 
