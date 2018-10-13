@@ -2,7 +2,7 @@
 
 --> About : Interactive and responsive website made for store clothes.
 
---> Language used : 
+--> Technologies used : 
 
     1. HTML
     2. CSS
