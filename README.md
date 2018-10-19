@@ -1,8 +1,8 @@
 # Clothes store
 
----> About : Interactive and responsive website made for store clothes.
+<b>---> About : </b> Interactive and responsive website made for store clothes.
 
----> Technologies used : 
+<b>---> Technologies used : </b>
 
     1. HTML
     2. CSS
