@@ -1,5 +1,9 @@
 # Clothes store
 
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
 <b>---> About : </b> Interactive and responsive website made for store clothes.
 
 <b>---> Technologies used : </b>
