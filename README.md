@@ -6,6 +6,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 <b>---> About : </b> Interactive and responsive website made for store clothes.
 
+### Prerequisites
+
 <b>---> Technologies used : </b>
 
     1. HTML
